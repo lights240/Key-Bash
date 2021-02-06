@@ -1,0 +1,12 @@
+C:\Users\Lights\source\repos\Key Bash\Key Bash\bin\Debug\Key Bash.exe.config
+C:\Users\Lights\source\repos\Key Bash\Key Bash\bin\Debug\Key Bash.exe
+C:\Users\Lights\source\repos\Key Bash\Key Bash\bin\Debug\Key Bash.pdb
+C:\Users\Lights\source\repos\Key Bash\Key Bash\bin\Debug\Key Bash.xml
+C:\Users\Lights\source\repos\Key Bash\Key Bash\obj\Debug\Key Bash.vbprojAssemblyReference.cache
+C:\Users\Lights\source\repos\Key Bash\Key Bash\obj\Debug\Key_Bash.Form1.resources
+C:\Users\Lights\source\repos\Key Bash\Key Bash\obj\Debug\Key_Bash.Resources.resources
+C:\Users\Lights\source\repos\Key Bash\Key Bash\obj\Debug\Key Bash.vbproj.GenerateResource.cache
+C:\Users\Lights\source\repos\Key Bash\Key Bash\obj\Debug\Key Bash.vbproj.CoreCompileInputs.cache
+C:\Users\Lights\source\repos\Key Bash\Key Bash\obj\Debug\Key Bash.exe
+C:\Users\Lights\source\repos\Key Bash\Key Bash\obj\Debug\Key Bash.xml
+C:\Users\Lights\source\repos\Key Bash\Key Bash\obj\Debug\Key Bash.pdb
